@@ -1,0 +1,10 @@
+﻿error SyntaxError: Unexpected token '<', "<!DOCTYPE "... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:4306:19)
+    at successSteps (node:internal/deps/undici/undici:4288:27)
+    at fullyReadBody (node:internal/deps/undici/undici:2724:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async consumeBody (node:internal/deps/undici/undici:4297:7)
+    at async C:\Users\PC\AppData\Local\nvm\v20.13.1\node_modules\@receptron\graphai_cli\node_modules\@graphai\vanilla\lib\bundle.cjs.js:3061:20
+    at async vanillaFetchAgent (C:\Users\PC\AppData\Local\nvm\v20.13.1\node_modules\@receptron\graphai_cli\node_modules\@graphai\vanilla\lib\bundle.cjs.js:3058:18)
+    at async $.execute (C:\Users\PC\AppData\Local\nvm\v20.13.1\node_modules\@receptron\graphai_cli\node_modules\graphai\lib\bundle.cjs.js:1:12334)

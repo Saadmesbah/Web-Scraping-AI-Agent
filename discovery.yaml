@@ -1,0 +1,20 @@
+nodes:
+  directory_fetcher:
+    action: http/get
+    input: "https://www.annuaire-gratuit.ma/pharmacie-garde-casablanca.html"
+    headers:
+      Authorization: Bearer ${JINA_API_KEY}
+  
+  link_extractor:
+    action: openai/chat
+    model: deepseek/deepseek-chat-v3-0324:free
+    apiKey: ${OPENROUTER_API_KEY}
+    messages:
+      - role: system
+        content: "Extract ALL pharmacy profile links from this page. Return ONLY a JSON array of URLs."
+      - role: user
+        content: ${directory_fetcher.data.content}
+  
+  unique_links:
+    action: array/unique
+    input: ${link_extractor.choices[0].message.content}

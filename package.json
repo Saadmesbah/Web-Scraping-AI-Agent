@@ -1,0 +1,6 @@
+{
+    "type": "module",
+    "dependencies": {
+      "graphai": "^0.9.0"
+    }
+  }

@@ -1,0 +1,33 @@
+version: 0.5
+nodes:
+  root:
+    value: "https://www.annuaire-gratuit.ma/pharmacie-garde-maroc.html"
+
+  # Fetch the page AS TEXT (critical)
+  fetch:
+    agent: vanillaFetchAgent
+    inputs:
+      url: :root
+    params:
+      type: text
+      headers:
+        Accept: "text/html,application/xhtml+xml;q=0.9,*/*;q=0.8"
+
+  # LLM filters: same-domain + keyword URLs only, one per line
+  extract:
+    agent: openAIAgent
+    params:
+      model: "deepseek/deepseek-chat-v3-0324:free"   # any OpenRouter model id is fine
+      temperature: 0
+    inputs:
+      messages:
+        - role: system
+          content: |
+            From the provided HTML, output ONLY absolute URLs (one per line) that:
+            - are on domain annuaire-gratuit.ma
+            - contain any of these tokens (case-insensitive):
+              pharm, pharmacie, pharmacies, officine, parapharm, garde, صيدلية, الصيدلية
+            Return plain text with one URL per line. No JSON, no extra text.
+        - role: user
+          content: :fetch
+    isResult: true

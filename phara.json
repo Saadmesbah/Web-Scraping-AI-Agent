@@ -1,0 +1,224 @@
+{
+    "pharmacies": [
+      {
+        "name": "Pharmacie ElKheir",
+        "address": "derb El Kheir, rue 23 n°63-65",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-elkheir-s234608.html"
+      },
+      {
+        "name": "Pharmacie Dalanda",
+        "address": "hay El Osra, lot. Sanaa rue 2 n°74",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-dalanda-s242611.html"
+      },
+      {
+        "name": "Pharmacie Soulaima",
+        "address": "bd de Fès, résid. les Jardins de Californie 2",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-soulaima-s234630.html"
+      },
+      {
+        "name": "Pharmacie Route de Rabat",
+        "address": "Route de Rabat (rond-point1), Résidence. Al Manare N°4. Bloc B. Bernoussi.",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-route-de-rabat-s235029.html"
+      },
+      {
+        "name": "Pharmacie Océanic",
+        "address": "313 route des Zenatas - r.s. 111 (côtière) Aïn Sebaâ",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-oceanic-s235038.html"
+      },
+      {
+        "name": "Pharmacie Sevam",
+        "address": "lot. El Azhar, n°3, imm. 9, bloc 7 Sevam",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-sevam-s235122.html"
+      },
+      {
+        "name": "Pharmacie Extention Anassi",
+        "address": "lot. Anassi, Gh 3 n°54 bd A",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-extention-anassi-s235145.html"
+      },
+      {
+        "name": "Pharmacie Ilham",
+        "address": "rue Nabigha Doubiani -ex Bazas ang. rue St Savin",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-ilham-s234938.html"
+      },
+      {
+        "name": "Pharmacie Anis",
+        "address": "K130 rte Mly Thami km 13 douar Chhouba",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-anis-s252795.html"
+      },
+      {
+        "name": "Pharmacie Chaoui",
+        "address": "N°497, Boulevard El Fida",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-chaoui-s234706.html"
+      },
+      {
+        "name": "Pharmacie Jardin Isesco",
+        "address": "13 Bis, rue de Rome, résid. Nora",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-jardin-isesco-s234727.html"
+      },
+      {
+        "name": "Pharmacie Attaoune",
+        "address": "derb Sidi El Khadir ang. rue 42/43 n°7 et 20",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-attaoune-s235229.html"
+      },
+      {
+        "name": "Pharmacie Saâd El Kheir",
+        "address": "hay El Oulfa bd H.H. 24 Hay Hassani Oulfa",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-saad-el-kheir-s237310.html"
+      },
+      {
+        "name": "Pharmacie Assafa",
+        "address": "Quartier Assafa, Rue 15 N°148. Route Moulay Thami. El Oulfa",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-assafa-s235226.html"
+      },
+      {
+        "name": "Pharmacie Dawdia",
+        "address": "hay El Wifak 1, rue 13 n°85",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-dawdia-s241817.html"
+      },
+      {
+        "name": "Pharmacie Ibn Zaidoune",
+        "address": "hay El Oulfa Chhoubat Rte Mly Thami n°343 Oulfa",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-ibn-zaidoune-s247771.html"
+      },
+      {
+        "name": "Pharmacie Route Errahma",
+        "address": "rte My. Thami , Km 1 Oulad Ahmed, Dar Bouazza",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-route-errahma-s244498.html"
+      },
+      {
+        "name": "Pharmacie Ahmed Rayan",
+        "address": "hay El Oulfa, résid. cité Essalam Gh9, imm. 77 n°1",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-ahmed-rayan-s235223.html"
+      },
+      {
+        "name": "Pharmacie Granada",
+        "address": "bd Abdelhadi Boutaleb ex rte d'Azemmour, lotiss. Mestouna lot. n°39 rue 25 n°27",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-granada-s241694.html"
+      },
+      {
+        "name": "Pharmacie du Peuple",
+        "address": "251, rue Abou Ali Kali",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-du-peuple-s234992.html"
+      },
+      {
+        "name": "Pharmacie De L 039 Hopital Med V",
+        "address": "62 bd de la Grande Ceinture (h.Mohammadi) lot Almouahidine rue 8",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-de-l-039-hopital-med-v-s253637.html"
+      },
+      {
+        "name": "Pharmacie Ibn Khaldoun",
+        "address": "422, bd Abnaa Chouhada, lot. Inani h.m",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-ibn-khaldoun-s237029.html"
+      },
+      {
+        "name": "Pharmacie Noon",
+        "address": "12, rue abdelkrim el yazighi .bd ibn tachefine. la villette",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-noon-s153345.html"
+      },
+      {
+        "name": "Pharmacie Bechar El Kheir",
+        "address": "35, hay Mohammadi, Quartier Bechar El Kheir",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-bechar-el-kheir-s237759.html"
+      },
+      {
+        "name": "Pharmacie Nabila",
+        "address": "bd du Fouarat ang. Ouled Ziane, n°13, lot. Ghizlane",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-nabila-s237955.html"
+      },
+      {
+        "name": "Pharmacie Touati",
+        "address": "Zone industriel. Lissasfa, Riad Sofia T2 N°223",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-touati-s235024.html"
+      },
+      {
+        "name": "Pharmacie Ouadoudy",
+        "address": "hay Nassim, projet Yasmine imm. 400 n°2",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-ouadoudy-s241078.html"
+      },
+      {
+        "name": "Pharmacie Wouroud Essaada",
+        "address": "hay El Oulfa, résid. Essaada GH 1 mag.n° 11/12",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-wouroud-essaada-s241819.html"
+      },
+      {
+        "name": "Pharmacie Masjid Abou Bakr",
+        "address": "lotiss. Riad El Oulfa, bd Mly Touhami n°11/12",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-masjid-abou-bakr-s241990.html"
+      },
+      {
+        "name": "Pharmacie Gharbi",
+        "address": "hay Amal IV, rue 28 n°71et73",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-gharbi-s237315.html"
+      },
+      {
+        "name": "Pharmacie Fouarat",
+        "address": "hay El Qods, C. Com Qods II, n°23",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-fouarat-s240947.html"
+      },
+      {
+        "name": "Pharmacie Menzeh Al Qods",
+        "address": "Hay El Qods, Lotissement. Al Menzeh Immeuble.45 N°1",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-menzeh-al-qods-s242720.html"
+      },
+      {
+        "name": "Pharmacie les Idrissides",
+        "address": "49, lotiss. Jnanat , Sidi Maârouf",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-les-idrissides-s234736.html"
+      },
+      {
+        "name": "Pharmacie El Karti",
+        "address": "lotiss. Al Moustakbal, Gh 27 imm. 238 A n°1, Sidi Maârouf",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-el-karti-s234956.html"
+      },
+      {
+        "name": "Pharmacie Oum L 039 Ghaite",
+        "address": "hay Sidi Moumen lot. Tissir rue n°4 n°92 Tacharouk",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-oum-l-039-ghaite-s254030.html"
+      },
+      {
+        "name": "Pharmacie Mohamed Amine",
+        "address": "74, rue Amzil Moha",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-mohamed-amine-s242086.html"
+      },
+      {
+        "name": "Pharmacie Moussaoui",
+        "address": "hay Rahma, kiss. Errahma 1rue 1, n°18",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-moussaoui-s243873.html"
+      },
+      {
+        "name": "Pharmacie Bensabeur",
+        "address": "43, avenue Akid Allam, hay Sadri",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-bensabeur-s238517.html"
+      },
+      {
+        "name": "Pharmacie ElOthmania",
+        "address": "avenue Abou Houraïra, bloc 3 n°96",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-elothmania-s238532.html"
+      },
+      {
+        "name": "Pharmacie Hatim",
+        "address": "127, rue du Prince Moulay Abdallah",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-hatim-s237025.html"
+      },
+      {
+        "name": "Pharmacie Najd",
+        "address": "1 Bis, rue Ibn Chahid - ex Rigaud",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-najd-s237312.html"
+      },
+      {
+        "name": "Pharmacie le Corail",
+        "address": "9 Bis, bd de Libye, Val d'Anfa",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-le-corail-s237292.html"
+      },
+      {
+        "name": "Pharmacie Mérieux",
+        "address": "311, bd Abdelmoumen",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-merieux-s237304.html"
+      },
+      {
+        "name": "Pharmacie Al Kandara",
+        "address": "10 rue Abdellah Guennoun -ex Nièvre Lusitania",
+        "link": "https://www.annuaire-gratuit.ma/pharmacie-al-kandara-s237306.html"
+      }
+    ]
+  }

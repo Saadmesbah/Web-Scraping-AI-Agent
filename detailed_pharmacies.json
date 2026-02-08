@@ -1,0 +1,52 @@
+{
+  "total_processed": 7,
+  "successful_extractions": 5,
+  "failed_extractions": 2,
+  "pharmacies": [
+    {
+      "name": "Pharmacie Anissa",
+      "address": "33 av 9 juillet",
+      "phone_number": null,
+      "city": "Al hoceima",
+      "link": "https://www.annuaire-gratuit.ma/pharmacie-anissa-s248827.html"
+    },
+    {
+      "name": "Pharmacie Annour",
+      "address": "hay annour , rue 1016 n°56 INEZGANE",
+      "phone_number": "0528 83 88 48",
+      "city": "INEZGANE",
+      "link": "https://www.annuaire-gratuit.ma/pharmacie-annour-s40426.html"
+    },
+    {
+      "name": "Pharmacie Anoual",
+      "address": "Av. Mohamed V Zghanghan, Maroc",
+      "phone_number": "0536 35 29 00",
+      "city": "Zghanghan",
+      "link": "https://www.annuaire-gratuit.ma/pharmacie-anoual-s245866.html"
+    },
+    {
+      "name": "Pharmacie Anouari",
+      "address": "hay Massira III, rue 58 n°5 Casablanca",
+      "phone_number": "0522 71 76 79",
+      "city": "Casablanca",
+      "link": "https://www.annuaire-gratuit.ma/pharmacie-anouari-s237937.html"
+    },
+    {
+      "name": "Pharmacie Arrahman",
+      "address": "62, rue Ourika , q. Sidi Abdelkrim",
+      "phone_number": "0523 40 03 30",
+      "city": "Settat",
+      "link": "https://www.annuaire-gratuit.ma/pharmacie-arrahman-s242047.html"
+    }
+  ],
+  "failed_urls": [
+    {
+      "url": "https://www.annuaire-gratuit.ma/pharmacie-anezi-s24978.html",
+      "error": "Request failed: 503 Server Error: Service Unavailable for url: https://r.jina.ai/https://www.annuaire-gratuit.ma/pharmacie-anezi-s24978.html"
+    },
+    {
+      "url": "https://www.annuaire-gratuit.ma/pharmacies/vita-pharmacie-s235287.html",
+      "error": "Request failed: HTTPSConnectionPool(host='r.jina.ai', port=443): Read timed out. (read timeout=30)"
+    }
+  ]
+}
